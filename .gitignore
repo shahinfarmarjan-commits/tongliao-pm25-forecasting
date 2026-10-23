@@ -1,0 +1,30 @@
+# Raw and local data
+*.parquet
+*.nc
+*.nc4
+*.xlsx
+*.xls
+*.zip
+raw_data/
+source_data/
+
+# Local environments and credentials
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary and generated working files
+tmp/
+temp/
+logs/
+*.log
+*.tmp
+*.bak
+~$*
+
+# Operating-system files
+Thumbs.db
+.DS_Store

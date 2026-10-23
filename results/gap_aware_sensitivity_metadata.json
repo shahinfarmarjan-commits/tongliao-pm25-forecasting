@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "n_rows_per_horizon": 3373,
+  "calendar_start": "2021-08-07 19:00:00",
+  "calendar_end": "2021-12-31 23:00:00",
+  "gap_count": 44,
+  "gap_sizes_hours": {
+    "2": 40,
+    "3": 3,
+    "91": 1
+  },
+  "block_lengths_h": [
+    28,
+    48,
+    72,
+    168
+  ],
+  "bootstrap_replicates": 1000,
+  "paired_across_horizons": true,
+  "blocks_cross_gaps": false
+}
