@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Tongliao PM2.5 Forecasting: Horizon-Dependent Predictive Value of Local Monitoring and Regional Atmospheric Information"
+message: "If you use these materials, please cite the associated manuscript and the data sources listed in the README."
+type: software
+authors:
+  - family-names: Shahinfar
+    given-names: Marjan
+  - family-names: Kecojevic
+    given-names: Vladislav
+  - family-names: Sari
+    given-names: Yuksel Asli
+repository-code: https://github.com/shahinfarmarjan-commits/tongliao-pm25-forecasting
+version: "draft-3"
+date-released: 2026-10-28
+license: CC-BY-4.0
